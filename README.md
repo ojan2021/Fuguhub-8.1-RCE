@@ -1,2 +1,2 @@
-# Fuguhub 8.1 Authenticated Remote Code Execution (Also known as BarracudaDrive)
+# FuguHub 8.1 Authenticated Remote Code Execution and Privilege Escalation (Also known as BarracudaDrive)
 You can find the report in the repo. In future, maybe I can also upload PoC script...
